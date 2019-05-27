@@ -28,3 +28,18 @@ From other games:
 * **SURVIVAL A1**: 20G mode from Tetris the Grand Master.
 * **SURVIVAL A2**: T.A. Death.
 * **SURVIVAL A3**: Ti Shirase.
+
+PHANTOM
+--------
+
+Variants of Survival modes in which everything is the same, but everything is invisible.
+
+* **PHANTOM MANIA**: Based on Survival A2.
+* **PHANTOM MANIA 2**: Based on Survival A3. Probably impossible.
+* **PHANTOM MANIA M**: (TODO: Add information about this)
+
+OTHER
+--------
+These are miscellaneous modes that don't really fit into any other category.
+
+(TODO: Add these)
