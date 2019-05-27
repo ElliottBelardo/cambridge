@@ -42,4 +42,14 @@ OTHER
 --------
 These are miscellaneous modes that don't really fit into any other category.
 
-(TODO: Add these)
+**DEMON MODE**: So hard, even TASers meet a challenge.
+
+**STRATEGY**: The lock delay is insanely short, so you better think fast.
+
+**INTERVAL TRAINING**: After 30 seconds of intense gameplay, you get a break. Rinse and repeat.
+
+**THE TETRISGRAM<sup>TM</sup> PACER TEST**: It's literally just the FitnessGram Pacer Test in the form of a Tetris mode.
+
+**LIGNE**: Sprint mode; clear 40 lines as fast as possible. To be renamed in an update.
+
+(TODO: Find out what a Line Attack is)
